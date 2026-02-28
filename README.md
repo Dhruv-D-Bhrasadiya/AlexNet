@@ -50,8 +50,7 @@ AlexNet/
 ├── train.py                # Training script (Section 4)
 ├── config.py               # Hyperparameters from paper
 ├── requirements.txt        # Python dependencies
-├── README.md               # This file
-└── AlexNet_1.pdf           # Original paper
+└── README.md               # This file
 ```
 
 ## Setup
@@ -59,7 +58,7 @@ AlexNet/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Dhruv-D-Bhrasadiya/AlexNet.git
 cd AlexNet
 ```
 
@@ -95,7 +94,7 @@ The ImageNet ILSVRC-2012 dataset is required for training. You need to:
 
 1. **Clone the repository in Colab:**
    ```python
-   !git clone <repository-url>
+   !git clone https://github.com/Dhruv-D-Bhrasadiya/AlexNet.git
    %cd AlexNet
    ```
 
